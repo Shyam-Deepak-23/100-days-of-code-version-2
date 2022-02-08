@@ -72,5 +72,7 @@ class Solution{
 };
 ```
 
+>Completed
+
 >Expected Time Complexity: O(N*Log(N))
 >Expected Auxiliary Space: O(1)
